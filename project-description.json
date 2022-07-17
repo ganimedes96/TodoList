@@ -1,0 +1,36 @@
+{
+    "name": "TodoLIst",
+    "short_description": "Projeto Todo list desenvolvido para reforçar os conceitos mais importantes do ReactJs",
+    "description": "Projeto Todo list desenvolvido para reforçar os conceitos mais importantes do ReactJs",
+    
+    "techs": [
+      {
+        "name": "React.js",
+        "url": "https://reactjs.org"
+      },
+      {
+        "name":"Vite",
+        "url": "https://vitejs.dev"
+      },
+      {
+          "name":"Tailwind",
+          "url":"https://tailwindui.com"
+      },
+      
+      {
+        "name":"TypeScript",
+        "url":"https://www.typescriptlang.org"
+      }
+      
+    ],
+    "videos":[
+        "https://raw.githubusercontent.com/ganimedes96/TodoList/main/.github/todo.mp4"
+    ],
+    "images": [
+     "https://raw.githubusercontent.com/ganimedes96/TodoList/main/.github/image.jpg",
+     "https://raw.githubusercontent.com/ganimedes96/TodoList/main/.github/image1.jpg"
+
+    
+    ]
+    
+    }
