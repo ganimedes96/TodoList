@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/59948274/179427575-8cad473b-981e-43ce-
 	About th project
 </h2>
 
-<p>Projeto Todo list  desenvolvido para reforçar os conceitos mais importantes do ReactJs </p>
+<p>O Projeto Todo list  desenvolvido para reforçar os conceitos mais importantes do ReactJs </p>
 
 ## 🚀 Technologies
 
